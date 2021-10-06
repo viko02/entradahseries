@@ -12,8 +12,6 @@
 
 <info>[COLOR aquamarine]Esse addon foi desenvolvido para resgatar filmes de outras décadas, por isso não possui grande número de séries. As poucas que aqui se encontram, são de opção pessoal. Novas séries serão acrescentadas no decorrer dos próximos dias, se conseguir tempo para isso é claro....[/COLOR]</info>
 </channel>
-</channels>
- 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -28,7 +26,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/original/g4D1BvtXteAxjjfQFrt2GGcduXJ.jpg</fanart>
 
 <info>[COLOR aquamarine]O agente Phil Coulson, visto em ação no filme “Os Vingadores”, monta uma equipe com os melhores agentes da S.H.I.E.L.D. para investigar ameaças bizarras.
-[/COLOR]</info></channel>
+[/COLOR]</iinfo
+
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -43,7 +43,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://image.tmdb.org/t/p/w1000_and_h563_face/nTiVkActCwvEyIqBRpJjik8jSuk.jpg</fanart>
 
 <info>[COLOR aquamarine]Buffy é uma jovem que faz parte de uma longa linhagem de guerreiras escolhidas para caçar e destruir vampiros, demônios e outras forças do mal.
-[/COLOR]</info></channel>
+[/COLOR]</info>
+
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -59,7 +61,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <info>[COLOR aquamarine]Dark é uma premiada websérie alemã de drama, suspense e ficção científica, criada Baran bo Odar e Jantje Friese e eleita em votação popular no site Rotten Tomatoes como a melhor série original Netflix.
 
-[/COLOR]</info></channel>
+[/COLOR]</info>
+
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -89,7 +93,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <fanart>http://cdn.wallpaperinhd.net/wp-content/uploads/2018/11/05/Game-of-Thrones-Wallpaper-22.jpg</fanart>
 
-<info>[COLOR aquamarine]Há muito tempo, em um tempo esquecido, uma força destruiu o equilíbrio das estações. Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, as reivindicações e as forças sobrenaturais correm as portas do Reino dos Sete Reinos. A irmandade da Patrulha da Noite busca proteger o reino de cada criatura que pode vir de lá da Muralha, mas já não tem os recursos necessários para garantir a segurança de todos. Depois de um verão de dez anos, um inverno rigoroso promete chegar com um futuro mais sombrio.[/COLOR]</info></channel>
+<info>[COLOR aquamarine]Há muito tempo, em um tempo esquecido, uma força destruiu o equilíbrio das estações. Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, as reivindicações e as forças sobrenaturais correm as portas do Reino dos Sete Reinos. A irmandade da Patrulha da Noite busca proteger o reino de cada criatura que pode vir de lá da Muralha, mas já não tem os recursos necessários para garantir a segurança de todos. Depois de um verão de dez anos, um inverno rigoroso promete chegar com um futuro mais sombrio.[/COLOR]</info>
+
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -141,10 +147,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <info>[COLOR aquamarine]Beleza, riqueza e status definem as pessoas que vivem em Hamptons, mas uma mulher em busca de vingança pode destruir tudo. Emily Thorne infiltra-se na alta sociedade dos Hamptons para vingar-se das pessoas que incriminaram seu pai anos atrás.
 Autores: Mike Kelley, Nikki Toscano, Sallie Patrick, Ted Sullivan, Liz Tigelaar, Salvatore Stabile
-Gêneros: Suspense psicológico, Mistério.
+Gêneros: Suspense psicológico, Mistério
+[/COLOR]</info>
 
-
-[/COLOR]</info></channel>
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -176,7 +182,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <info>[COLOR aquamarine]A primeira temporada da série Secrets and Lies (Segredos e Mentiras) traz um enredo dentro do esperado para a temática suspense policialesco. A trama gira em torno do misteioso assassinato de Tom Murphy, um garotinho de 5 anos, crime bárbaro que causa comoção e revolta em uma pequena cidade americana. A partir daí, o telespectador é instigado a querer saber o que vai acontecer no próximo episódio.
 
-[/COLOR]</info></channel>
+[/COLOR]</info>
+
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -191,16 +199,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/i2S3LrtF06PgOUG3s87mmmDzkSH.jpg</fanart>
 
 <info>[COLOR aquamarine]Forças sinistras tramam contra uma jovem militar quando ela revela um poder mágico capaz de unir seu mundo.
-[/COLOR]</info></channel>
+[/COLOR]</info>
 
-
-</channels>
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channel>
-
 
 <name>[B][COLOR aquamarine]The 100[/COLOR][/B]</name>
 
@@ -211,7 +216,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://images5.alphacoders.com/675/675868.jpg</fanart>
 
 <info>[COLOR aquamarine]Quando uma guerra nuclear destruiu a civilização e o planeta Terra, os únicos sobreviventes foram 400 pessoas que estavam em 12 estações espaciais em órbita. 97 anos e três gerações depois, a população já contava com 4 mil pessoas, mas os recursos já vão escassos. Para garantir o futuro, um grupo de cem jovens é enviado à superfície da Terra para descobrir se ela está habitável. Com a sobrevivência da raça humana em suas mãos, estes jovens precisam superar suas diferenças e unir forças para cruzar juntos o seu caminho.
-[/COLOR]</info></channel>
+[/COLOR]</info>
+
+</channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -227,7 +234,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <info>[COLOR aquamarine]A série acompanha a saga dos navegadores nórdicos que exploram - e conquistam - novos territórios nos tempos medievais.
 Ragner é um guerreiro e fazendeiro casado com Lagertha, mulher que fabrica escudos, com quem tem dois filhos pequenos. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Seus sonhos o levam a se tornar uma figura importante na aldeia, o que provoca uma certa tensão entre ele e seu irmão Rollo, um homem cruel que sente inveja da ascensão de Ragnar. 
-[/COLOR]</info></channel>
+[/COLOR]</info>
+
+</channel>
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+</channels>
