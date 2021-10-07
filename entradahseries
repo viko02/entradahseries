@@ -115,7 +115,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channel>
+<channel> 
 
 <name>[B][COLOR aquamarine]Game Of Thrones[/COLOR][/B]</name>
 
@@ -162,6 +162,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR aquamarine]A hora de Loki chegou.[/COLOR]
 [B][COLOR aquamarine]Sinopse:[/COLOR][/B]
 [COLOR aquamarine]Começando imediatamente depois que Loki rouba o Tesseract (de novo), ele se encontra diante da Autoridade de Variação Temporal, uma organização burocrática que existe fora do tempo e espaço. Forçado a responder por seus crimes contra a linha do tempo, ele recebe uma escolha: Ser deletado da realidade ou ajudar a capturar uma ameaça ainda maior.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channel>
+
+
+<name>[B][COLOR aquamarine]Mad Men[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/madmen/raw/main/madmen</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/wa7b51oQx1cFPUEMpNsb4b4c6Lu.jpg</thumbnail>
+.
+<fanart>https://www.themoviedb.org/t/p/original/20ublF8218D09Y8Go1vSmXgstcr.jpg</fanart>
+
+<info>[COLOR aquamarine]Mad Men conta a história do universo corporativo de marketing no começo dos anos 60 nos Estados Unidos. A série gira em torno do protagonista Donald Draper, diretor executivo de uma grande empresa de marketing em Manhattan. A história apresenta a dualidade de Draper, um homem que tenta lidar com a imagem de marido perfeito e grande visionário, mas que abusa do álcool e possui diversas relações extraconjugais. Mad Men é uma eletrizante e bem construída crítica ao american way of life e recebeu inúmeros prêmios importantes da indústria televisiva estadunidense ao longo do seu período de exibição.
+[/COLOR]</info>
 
 </channel>
 
