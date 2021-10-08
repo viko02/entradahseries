@@ -65,9 +65,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channel>
-
 
 <name>[B][COLOR aquamarine]Chernobyl[/COLOR][/B]</name>
 
@@ -148,6 +146,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+<channel>
+
+
+<name>[B][COLOR aquamarine]Irmãos de Guerra[/COLOR][/B]</name>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/zReOJYste13Qq3T3B5OyXPWjv1O.jpg</thumbnail>
+
+<externallink>https://github.com/viko02/irmaosguerra/raw/main/irmaosguerra</externallink>
+
+<fanart>https://www.themoviedb.org/t/p/original/29JYJokZaZJg7SWXnw7FsnTntew.jpg</fanart>
+
+<info>[COLOR aquamarine]Minissérie muito aclamada, que conta a história da chamada Easy Company, que integrou a 101ª Divisão do Exército dos Estados Unidos. Na série, é mostrado desde o treinamento da equipe até a sua participação na Guerra Mundial. Band of Brothers garante, portanto, muita ação e ficção baseada em história real. A Easy Company é tida até hoje como uma das equipes mais famosas da historia militar norte-americana. Entre os prêmios, ganhou um Globo de Ouro e seis Emmy Awards.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
