@@ -322,7 +322,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <name>[B][COLOR aquamarine]The 100[/COLOR][/B]</name>
 
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYr-T0i_u53s665kTZcmRlFnOB2Fj50I8gJQ&usqp=CAU</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/aAI6McsjhwggmGdZwOylXrhttps://www.themoviedb.org/t/p/original/aAI6McsjhwggmGdZwOylXraoil.jpg</thumbnail>
 
 <externallink>https://github.com/viko02/1h00/raw/main/1h00</externallink>
 
@@ -334,6 +334,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]The Office[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/office/raw/main/office</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/g1b7CQA2lGUxrMPCinc9UWXq1vF.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/vNpuAxGTl9HsUbHqam3E9CzqCvX.jpg</fanart>
+
+<info>[COLOR aquamarine]Outro dos sitcoms mais amados de todos os tempos é The Office. A série foi originalmente criada na Inglaterra, pela BBC, com apenas duas temporadas e 14 episódios no total. Porém, ao longo dos anos, outras versões passaram a ser feitas, como é o caso da versão americana de mesmo nome, lançada em 2005, e a versão alemã, chamada Stromberg. A série americana mostra a rotina num escritório com colegas de trabalho icônicos que garantem muitas gargalhadas.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
