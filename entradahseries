@@ -247,9 +247,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channel>
-
 
 <name>[B][COLOR aquamarine]Mad Men[/COLOR][/B]</name>
 
@@ -265,6 +263,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]Narcos[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/narcos/raw/main/narcos</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/iTxNuSp5JEKLf4rLVz5aFulJD3k.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/c9o4lOvtNYY4W9Qm4gT1w0zx12u.jpg</fanart>
+
+<info>[COLOR aquamarine]Narcos conta a história real do Cartel Mendellín, comandado pelo colombiano Pablo Escobar, e do tráfico de cocaína para os Estados Unidos. Enquanto os traficantes enriquecem, dois agentes americanos tentam combater os criminosos. A série é estrelada pelo ator brasileiro Wagner Moura, que concorreu à categoria de melhor ator de série de TV no Globo de Ouro, em 2016.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
