@@ -144,9 +144,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channel>
-
 
 <name>[B][COLOR aquamarine]Fargo[/COLOR][/B]</name>
 
@@ -193,6 +191,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channel>
+
+<name>[B][COLOR aquamarine]House of Cards[/COLOR][/B]</name>
+
+<externallink>https://github.com/viko02/house/raw/main/house</externallink>
+
+<thumbnail>https://www.themoviedb.org/t/p/original/8GUClrhpQl3nTIVHcJzgqglUj8j.jpg</thumbnail>
+
+<fanart>https://www.themoviedb.org/t/p/original/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg</fanart>
+
+<info>[COLOR aquamarine]Trapaça, inveja e manipulação são alguns dos principais elementos nos quais se baseiam House of Cards, uma série que retrata o mundo político nos Estados Unidos. O congressista Francis Underwood não tem limites quando o assunto é chegar ao poder e, junto com a esposa, Claire Underwood, passa por cima de tudo e de todos para atingir seus objetivos.[/COLOR]</info>
+
+</channel>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
